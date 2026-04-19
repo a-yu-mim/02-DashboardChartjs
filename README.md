@@ -13,5 +13,4 @@ Dashboard simples desenvolvida com **HTML, CSS e Chart.js**, que exibe gráficos
   - Umidade média mensal
 
 ---
-<img width="955" height="449" alt="image" src="https://github.com/user-attachments/assets/48f6c2d1-233c-4652-aa35-4a0f8cdf7f8b" />
-
+<img width="1913" height="838" alt="image" src="https://github.com/user-attachments/assets/95df70c6-0daf-415f-8c53-92cdea59a22c" />
