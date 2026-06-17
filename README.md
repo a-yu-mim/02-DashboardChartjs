@@ -1,4 +1,4 @@
-# 📊 Dashboard
+# Dashboard ( Gráficos )
 
 Simple dashboard developed with **HTML, CSS, and Chart.js**, displaying temperature and humidity charts.
 
